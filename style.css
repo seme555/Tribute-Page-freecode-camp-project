@@ -24,7 +24,7 @@
 
 body {
   font-family: "Times New Roman", Times, serif;
-  background-color: var(--secondary-color);
+  background-color:  rgb(168, 38, 38);
 }
 
 .main {
@@ -188,4 +188,7 @@ body {
 .footer a {
   text-decoration: none;
   color: var(--tertiary-color);
+}
+.media__img{
+  margin: 0px auto;
 }
